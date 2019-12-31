@@ -4,6 +4,9 @@
 | ---- | ---- | ---- | ---- | ---- |
 | 1. | Two Sum | 簡單 | 基本 |  |
 | 4. | Median of Two Sorted Arrays | 困難 | 數學 |  |
+| 7. | Reverse Integer | 簡單 | 字串處理 |  |
+| 9. | Palindrome Number | 簡單 | 字串處理 |  |
+| 14. | Longest Common Prefix | 簡單 | 字串處理 |  |
 | 21. | Merge Two Sorted Lists | 簡單 | 鏈結串列 | 重要 |
 | 53. | Maximum Subarray | 簡單 | 動態規劃 | 重要 |
 | 107. | Binary Tree Level Order Traversal II | 簡單 | 二元樹 |  |
@@ -12,25 +15,7 @@
 | 287. | Find the Duplicate Number | 中等 | 基本 |  |
 | 717. | 1-bit and 2-bit Characters | 簡單 | 字串處理 | 重要 |
 | 724. | Find Pivot Index | 簡單 | 基本 | 重要 |
-|  |  | 簡單 |  |  |
-|  |  | 簡單 |  |  |
-|  |  | 簡單 |  |  |
-|  |  | 簡單 |  |  |
-|  |  | 簡單 |  |  |
-|  |  | 簡單 |  |  |
-|  |  | 簡單 |  |  |
-|  |  | 簡單 |  |  |
-|  |  | 簡單 |  |  |
-|  |  | 簡單 |  |  |
-|  |  | 簡單 |  |  |
-|  |  | 簡單 |  |  |
-|  |  | 簡單 |  |  |
-|  |  | 簡單 |  |  |
-|  |  | 簡單 |  |  |
-|  |  | 簡單 |  |  |
-|  |  | 簡單 |  |  |
-|  |  | 簡單 |  |  |
-|  |  | 簡單 |  |  |
+| 1002. | Find Common Characters | 簡單 | 字串處理 |  |
 |  |  | 簡單 |  |  |
 |  |  | 簡單 |  |  |
 |  |  | 簡單 |  |  |
