@@ -5,6 +5,7 @@
 | 1. | Two Sum | 簡單 | 基本 |  |
 | 4. | Median of Two Sorted Arrays | 困難 | 數學 |  |
 | 7. | Reverse Integer | 簡單 | 字串處理 |  |
+| 8. | String to Integer (atoi) | 中等 | 字串處理 | 麻煩 |
 | 9. | Palindrome Number | 簡單 | 字串處理 |  |
 | 14. | Longest Common Prefix | 簡單 | 字串處理 |  |
 | 21. | Merge Two Sorted Lists | 簡單 | 鏈結串列 | 重要 |
