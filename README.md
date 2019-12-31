@@ -6,7 +6,7 @@
 | 53. | Maximum Subarray | 簡單 | 動態規劃 |  |
 | 107. | Binary Tree Level Order Traversal II | 簡單 | 二元樹 |  |
 | 168. | Excel Sheet Column Title | 簡單 | 數學 |  |
-|  |  | 簡單 |  |  |
+| 724. | Find Pivot Index | 簡單 | 基本 | 重要 |
 |  |  | 簡單 |  |  |
 |  |  | 簡單 |  |  |
 |  |  | 簡單 |  |  |
