@@ -9,6 +9,7 @@
 | 168. | Excel Sheet Column Title | 簡單 | 數學 |  |
 | 229. | Majority Element II | 中等 | 基本 |  |
 | 287. | Find the Duplicate Number | 中等 | 基本 |  |
+| 717. | 1-bit and 2-bit Characters | 簡單 | 字串 | 重要 |
 | 724. | Find Pivot Index | 簡單 | 基本 | 重要 |
 |  |  | 簡單 |  |  |
 |  |  | 簡單 |  |  |
