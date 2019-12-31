@@ -4,6 +4,7 @@
 | ---- | ---- | ---- | ---- | ---- |
 | 1. | Two Sum | 簡單 | 基本 |  |
 | 4. | Median of Two Sorted Arrays | 困難 | 數學 |  |
+| 21. | Merge Two Sorted Lists | 簡單 | 鏈結串列 | 重要 |
 | 53. | Maximum Subarray | 簡單 | 動態規劃 | 重要 |
 | 107. | Binary Tree Level Order Traversal II | 簡單 | 二元樹 |  |
 | 168. | Excel Sheet Column Title | 簡單 | 數學 |  |
