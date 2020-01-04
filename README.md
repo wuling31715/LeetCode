@@ -12,8 +12,8 @@
 | 53. | Maximum Subarray | 簡單 | 動態規劃 | 重要 |
 | 107. | Binary Tree Level Order Traversal II | 簡單 | 二元樹 |  |
 | 168. | Excel Sheet Column Title | 簡單 | 數學 |  |
-| 190. | Reverse Bits | 簡單 | 基本 | 重要 |
-| 191. | Number of 1 Bits | 簡單 | 基本 | 重要 |
+| 190. | Reverse Bits | 簡單 | 位元 | 重要 |
+| 191. | Number of 1 Bits | 簡單 | 位元 | 重要 |
 | 229. | Majority Element II | 中等 | 基本 |  |
 | 287. | Find the Duplicate Number | 中等 | 基本 |  |
 | 292. | Nim Game | 簡單 | 數學 |  |
