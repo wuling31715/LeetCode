@@ -24,5 +24,6 @@
 | 717. | 1-bit and 2-bit Characters | 簡單 | 字串處理 | 重要 |
 | 724. | Find Pivot Index | 簡單 | 基本 | 重要 |
 | 1002. | Find Common Characters | 簡單 | 字串處理 |  |
-| 1304.  | Find N Unique Integers Sum up to Zero | 簡單 | 基本 |  |
+| 1299. | Replace Elements with Greatest Element on Right Side | 簡單 | 基本 |  |
+| 1304. | Find N Unique Integers Sum up to Zero | 簡單 | 基本 |  |
 |  |  | 簡單 |  |  |
