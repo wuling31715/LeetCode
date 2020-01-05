@@ -20,10 +20,12 @@
 | 374. | Guess Number Higher or Lower | 簡單 | 二元搜尋 | 重要 |
 | 392. | Is Subsequence | 簡單 | 字串處理 | 麻煩 |
 | 405. | Convert a Number to Hexadecimal | 簡單 | 數學 | 重要 |
+| 506. | Reshape the Matrix | 簡單 | 矩陣 | 重要 |
 | 693. | Binary Number with Alternating Bits | 簡單 | 基本 |  |
 | 717. | 1-bit and 2-bit Characters | 簡單 | 字串處理 | 重要 |
 | 724. | Find Pivot Index | 簡單 | 基本 | 重要 |
 | 1002. | Find Common Characters | 簡單 | 字串處理 |  |
 | 1299. | Replace Elements with Greatest Element on Right Side | 簡單 | 基本 |  |
 | 1304. | Find N Unique Integers Sum up to Zero | 簡單 | 基本 |  |
+|  |  | 簡單 |  |  |
 |  |  | 簡單 |  |  |
