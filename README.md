@@ -23,6 +23,8 @@
 | 561. | Array Partition I | 簡單 | 基本 |  |
 | 566. | Reshape the Matrix | 簡單 | 矩陣 | 重要 |
 | 598. | Range Addition II  | 簡單 | 矩陣 | 重要 |
+| 599. | Minimum Index Sum of Two Lists  | 簡單 | 基本 |  |
+| 628. | Maximum Product of Three Numbers | 簡單 | 基本 | 麻煩 |
 | 633. | Sum of Square Numbers | 簡單 | 基本 | 重要 |
 | 693. | Binary Number with Alternating Bits | 簡單 | 基本 |  |
 | 717. | 1-bit and 2-bit Characters | 簡單 | 字串處理 | 重要 |
