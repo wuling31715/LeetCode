@@ -38,6 +38,7 @@
 | 914. | X of a Kind in a Deck of Cards | 簡單 | 基本 | 重要 |
 | 1002. | Find Common Characters | 簡單 | 字串處理 |  |
 | 1287. | Element Appearing More Than 25% In Sorted Array | 簡單 | 基本 |  |
+| 1295. | Find Numbers with Even Number of Digits | 簡單 | 基本 |  |
 | 1299. | Replace Elements with Greatest Element on Right Side | 簡單 | 基本 |  |
 | 1304. | Find N Unique Integers Sum up to Zero | 簡單 | 基本 |  |
 |  |  | 簡單 |  |  |
