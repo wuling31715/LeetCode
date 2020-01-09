@@ -19,7 +19,7 @@
 | 292. | Nim Game | 簡單 | 數學 |  |
 | 374. | Guess Number Higher or Lower | 簡單 | 二元搜尋 | 重要 |
 | 392. | Is Subsequence | 簡單 | 字串處理 | 麻煩 |
-| 405. | Convert a Number to Hexadecimal | 簡單 | 數學 | 重要 |
+| 405. | Convert a Number to Hexadecimal | 簡單 | 進位 | 重要 |
 | 561. | Array Partition I | 簡單 | 基本 |  |
 | 566. | Reshape the Matrix | 簡單 | 矩陣 | 重要 |
 | 598. | Range Addition II  | 簡單 | 矩陣 | 重要 |
@@ -30,6 +30,8 @@
 | 717. | 1-bit and 2-bit Characters | 簡單 | 字串處理 | 重要 |
 | 724. | Find Pivot Index | 簡單 | 基本 | 重要 |
 | 762. | Prime Number of Set Bits in Binary Representation | 簡單 | 基本 | 重要 |
+| 766. | Toeplitz Matrix | 簡單 | 矩陣 | 重要 |
+| 788. | Rotated Digits | 簡單 | 集合 | 重要 |
 | 914. | X of a Kind in a Deck of Cards | 簡單 | 基本 | 重要 |
 | 1002. | Find Common Characters | 簡單 | 字串處理 |  |
 | 1287. | Element Appearing More Than 25% In Sorted Array | 簡單 | 基本 |  |
@@ -37,3 +39,4 @@
 | 1304. | Find N Unique Integers Sum up to Zero | 簡單 | 基本 |  |
 |  |  | 簡單 |  |  |
 |  |  | 簡單 |  |  |
+ 
