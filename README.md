@@ -31,6 +31,7 @@
 | 724. | Find Pivot Index | 簡單 | 基本 | 重要 |
 | 762. | Prime Number of Set Bits in Binary Representation | 簡單 | 基本 | 重要 |
 | 766. | Toeplitz Matrix | 簡單 | 矩陣 | 重要 |
+| 771. | Jewels and Stones | 簡單 | 基本 |  |
 | 788. | Rotated Digits | 簡單 | 集合 | 重要 |
 | 796. | Rotate String | 簡單 | 基本 |  |
 | 860. | Lemonade Change | 簡單 | 基本 |  |
@@ -41,3 +42,4 @@
 | 1304. | Find N Unique Integers Sum up to Zero | 簡單 | 基本 |  |
 |  |  | 簡單 |  |  |
 |  |  | 簡單 |  |  |
+ 
