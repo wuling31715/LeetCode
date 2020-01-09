@@ -35,6 +35,7 @@
 | 788. | Rotated Digits | 簡單 | 集合 | 重要 |
 | 796. | Rotate String | 簡單 | 基本 |  |
 | 860. | Lemonade Change | 簡單 | 基本 |  |
+| 867. | Transpose Matrix | 簡單 | 矩陣 | 重要 |
 | 914. | X of a Kind in a Deck of Cards | 簡單 | 基本 | 重要 |
 | 1002. | Find Common Characters | 簡單 | 字串處理 |  |
 | 1287. | Element Appearing More Than 25% In Sorted Array | 簡單 | 基本 |  |
@@ -43,4 +44,3 @@
 | 1304. | Find N Unique Integers Sum up to Zero | 簡單 | 基本 |  |
 |  |  | 簡單 |  |  |
 |  |  | 簡單 |  |  |
- 
