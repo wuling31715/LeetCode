@@ -43,6 +43,7 @@
 | 1200. | Minimum Absolute Difference | 簡單 | 基本 | 重要 |
 | 1207. | Unique Number of Occurrences | 簡單 | 基本 |  |
 | 1221. | Split a String in Balanced Strings | 簡單 | 堆疊 | 重要 |
+| 1232. | Check If It Is a Straight Line | 簡單 | 基本 |  |
 | 1287. | Element Appearing More Than 25% In Sorted Array | 簡單 | 基本 |  |
 | 1295. | Find Numbers with Even Number of Digits | 簡單 | 基本 |  |
 | 1299. | Replace Elements with Greatest Element on Right Side | 簡單 | 基本 |  |
