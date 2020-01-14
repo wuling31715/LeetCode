@@ -48,5 +48,7 @@
 | 1299. | Replace Elements with Greatest Element on Right Side | 簡單 | 基本 |  |
 | 1304. | Find N Unique Integers Sum up to Zero | 簡單 | 基本 |  |
 | 1309. | Decrypt String from Alphabet to Integer Mapping | 簡單 | 基本 |  |
+| 1317. | Convert Integer to the Sum of Two No-Zero Integers | 簡單 | 基本 |  |
 |  |  | 簡單 |  |  |
 
+ 
