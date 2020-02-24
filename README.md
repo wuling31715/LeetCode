@@ -97,6 +97,7 @@
 | 1232. | Check If It Is a Straight Line | 簡單 | 基本 |  |
 | 1281. |  Subtract the Product and Sum of Digits of an Integer | 簡單 | 基本 |  |
 | 1287. | Element Appearing More Than 25% In Sorted Array | 簡單 | 基本 |  |
+| 1290. | Convert Binary Number in a Linked List to Integer | 簡單 | 鏈結串列 | 重要 |
 | 1295. | Find Numbers with Even Number of Digits | 簡單 | 基本 |  |
 | 1299. | Replace Elements with Greatest Element on Right Side | 簡單 | 基本 |  |
 | 1304. | Find N Unique Integers Sum up to Zero | 簡單 | 基本 |  |
