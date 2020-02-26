@@ -69,6 +69,7 @@
 | 389. | Find the Difference | 簡單 | 基本 |  |
 | 392. | Is Subsequence | 簡單 | 字串處理 | 麻煩 |
 | 405. | Convert a Number to Hexadecimal | 簡單 | 進位 | 重要 |
+| 415. | Add Strings | 簡單 | 基本 |  |
 | 520. | Detect Capital | 簡單 | 基本 |  |
 | 561. | Array Partition I | 簡單 | 基本 |  |
 | 566. | Reshape the Matrix | 簡單 | 矩陣 | 重要 |
