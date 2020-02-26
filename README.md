@@ -3,6 +3,7 @@
 | 題號 | 題目 | 難度 | 題型 | 備註 |
 | ---- | ---- | ---- | ---- | ---- |
 | 1. | Two Sum | 簡單 | 基本 |  |
+| 2. | Add Two Numbers | 中等 | 鏈結串列 | 重要 |
 | 4. | Median of Two Sorted Arrays | 困難 | 數學 |  |
 | 7. | Reverse Integer | 簡單 | 字串處理 |  |
 | 8. | String to Integer (atoi) | 中等 | 字串處理 | 麻煩 |
