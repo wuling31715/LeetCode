@@ -22,6 +22,7 @@
 | 67. | Add Binary | 簡單 | 進位 | 重要 |
 | 69. | Sqrt(x) | 簡單 | 基本 |  |
 | 70. | Climbing Stairs | 簡單 | 數學 |  |
+| 83. | Remove Duplicates from Sorted List | 簡單 | 鏈結串列 | 重要 |
 | 88. | Merge Sorted Array | 簡單 | 陣列 | 重要 |
 | 118. | Pascal's Triangle | 簡單 | 數學 | 重要 |
 | 119. | Pascal's Triangle II | 簡單 | 數學 | 重要 |
@@ -102,6 +103,7 @@
 | 1299. | Replace Elements with Greatest Element on Right Side | 簡單 | 基本 |  |
 | 1304. | Find N Unique Integers Sum up to Zero | 簡單 | 基本 |  |
 | 1309. | Decrypt String from Alphabet to Integer Mapping | 簡單 | 基本 |  |
+| 1313. | Decompress Run-Length Encoded List | 簡單 | 基本 |  |
 | 1317. | Convert Integer to the Sum of Two No-Zero Integers | 簡單 | 基本 |  |
 | 1337. | The K Weakest Rows in a Matrix | 簡單 | 排序 | 重要 |
 | 1342. | Number of Steps to Reduce a Number to Zero | 簡單 | 基本 |  |
