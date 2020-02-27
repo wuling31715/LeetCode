@@ -4,6 +4,7 @@
 | ---- | ---- | ---- | ---- | ---- |
 | 1. | Two Sum | 簡單 | 基本 |  |
 | 2. | Add Two Numbers | 中等 | 鏈結串列 | 重要 |
+| 3. | Longest Substring Without Repeating Characters | 中等 | 字串處理 | 重要 |
 | 4. | Median of Two Sorted Arrays | 困難 | 數學 |  |
 | 7. | Reverse Integer | 簡單 | 字串處理 |  |
 | 8. | String to Integer (atoi) | 中等 | 字串處理 | 麻煩 |
@@ -45,6 +46,7 @@
 | 205. | Isomorphic Strings | 簡單 | 字典 | 重要 |
 | 217. | Contains Duplicate | 簡單 | 基本 |  |
 | 219. | Contains Duplicate II | 簡單 | 基本 | 麻煩 |
+| 225. | Implement Stack using Queues | 簡單 | 堆疊 | 重要 |
 | 229. | Majority Element II | 中等 | 基本 |  |
 | 231. | Power of Two | 簡單 | 基本 |  |
 | 242. | Valid Anagram | 簡單 | 基本 |  |
