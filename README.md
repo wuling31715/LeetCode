@@ -112,4 +112,5 @@
 | 1337. | The K Weakest Rows in a Matrix | 簡單 | 排序 | 重要 |
 | 1342. | Number of Steps to Reduce a Number to Zero | 簡單 | 基本 |  |
 | 1351. | Count Negative Numbers in a Sorted Matrix | 簡單 | 基本 |  |
+| 1365. | How Many Numbers Are Smaller Than the Current Number | 簡單 | 基本 |  |
 |  |  | 簡單 |  |  |
