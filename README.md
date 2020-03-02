@@ -109,6 +109,7 @@
 | 1309. | Decrypt String from Alphabet to Integer Mapping | 簡單 | 基本 |  |
 | 1313. | Decompress Run-Length Encoded List | 簡單 | 基本 |  |
 | 1317. | Convert Integer to the Sum of Two No-Zero Integers | 簡單 | 基本 |  |
+| 1331. | Rank Transform of an Array | 簡單 | 排序 | 重要 |
 | 1337. | The K Weakest Rows in a Matrix | 簡單 | 排序 | 重要 |
 | 1342. | Number of Steps to Reduce a Number to Zero | 簡單 | 基本 |  |
 | 1351. | Count Negative Numbers in a Sorted Matrix | 簡單 | 基本 |  |
