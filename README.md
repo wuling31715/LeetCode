@@ -90,8 +90,7 @@
 | 771. | Jewels and Stones | 簡單 | 基本 |  |
 | 788. | Rotated Digits | 簡單 | 集合 | 重要 |
 | 796. | Rotate String | 簡單 | 基本 |  |
-| [811.](https://github.com/wuling31715/leetcode/blob/master/0811.%20Subdomain%20Visit%20Count.ipynb) 
-| Subdomain Visit Count | 簡單 | 字典 | 重要 |
+| [811.](https://github.com/wuling31715/leetcode/blob/master/0811.%20Subdomain%20Visit%20Count.ipynb) | Subdomain Visit Count | 簡單 | 字典 | 重要 |
 | 860. | Lemonade Change | 簡單 | 基本 |  |
 | 867. | Transpose Matrix | 簡單 | 矩陣 | 重要 |
 | 914. | X of a Kind in a Deck of Cards | 簡單 | 基本 | 重要 |
