@@ -12,12 +12,12 @@
 | [0013.](https://github.com/wuling31715/leetcode/blob/master/0013.ipynb) | Roman to Integer | 簡單 | 字典 | 重要 |
 | [0014.](https://github.com/wuling31715/leetcode/blob/master/0014.ipynb) | Longest Common Prefix | 簡單 | 字串處理 |  |
 | [0020.](https://github.com/wuling31715/leetcode/blob/master/0020.ipynb) | Valid Parentheses | 簡單 | 堆疊 | 重要 |
-| 21. | Merge Two Sorted Lists | 簡單 | 鏈結串列 | 重要 |
-| 26. | Remove Duplicates from Sorted Array | 簡單 | 基本 |  |
-| 27. | Remove Element | 簡單 | 基本 |  |
-| 28. | Implement strStr() | 簡單 | 基本 |  |
-| 35. | Search Insert Position | 簡單 | 基本 |  |
-| 38. | Count and Say | 簡單 | 基本 | 麻煩 |
+| [0021.](https://github.com/wuling31715/leetcode/blob/master/0021.ipynb) | Merge Two Sorted Lists | 簡單 | 鏈結串列 | 重要 |
+| [0026.](https://github.com/wuling31715/leetcode/blob/master/0026.ipynb) | Remove Duplicates from Sorted Array | 簡單 | 基本 |  |
+| [0027.](https://github.com/wuling31715/leetcode/blob/master/0027.ipynb) | Remove Element | 簡單 | 基本 |  |
+| [0028.](https://github.com/wuling31715/leetcode/blob/master/0028.ipynb) | Implement strStr() | 簡單 | 基本 |  |
+| [0035.](https://github.com/wuling31715/leetcode/blob/master/0035.ipynb) | Search Insert Position | 簡單 | 基本 |  |
+| [0038.](https://github.com/wuling31715/leetcode/blob/master/0038.ipynb) | Count and Say | 簡單 | 基本 | 麻煩 |
 | 53. | Maximum Subarray | 簡單 | 動態規劃 | 重要 |
 | 58. | Length of Last Word | 簡單 | 基本 |  |
 | 66. | Plus One | 簡單 | 基本 |  |
