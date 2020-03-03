@@ -18,14 +18,14 @@
 | [0028.](https://github.com/wuling31715/leetcode/blob/master/0028.ipynb) | Implement strStr() | 簡單 | 基本 |  |
 | [0035.](https://github.com/wuling31715/leetcode/blob/master/0035.ipynb) | Search Insert Position | 簡單 | 基本 |  |
 | [0038.](https://github.com/wuling31715/leetcode/blob/master/0038.ipynb) | Count and Say | 簡單 | 基本 | 麻煩 |
-| 53. | Maximum Subarray | 簡單 | 動態規劃 | 重要 |
-| 58. | Length of Last Word | 簡單 | 基本 |  |
-| 66. | Plus One | 簡單 | 基本 |  |
-| 67. | Add Binary | 簡單 | 進位 | 重要 |
-| 69. | Sqrt(x) | 簡單 | 基本 |  |
-| 70. | Climbing Stairs | 簡單 | 數學 |  |
-| 83. | Remove Duplicates from Sorted List | 簡單 | 鏈結串列 | 重要 |
-| 88. | Merge Sorted Array | 簡單 | 陣列 | 重要 |
+| [0053.](https://github.com/wuling31715/leetcode/blob/master/0053.ipynb) | Maximum Subarray | 簡單 | 動態規劃 | 重要 |
+| [0058.](https://github.com/wuling31715/leetcode/blob/master/0058.ipynb) | Length of Last Word | 簡單 | 基本 |  |
+| [0066.](https://github.com/wuling31715/leetcode/blob/master/0066.ipynb) | Plus One | 簡單 | 基本 |  |
+| [0067.](https://github.com/wuling31715/leetcode/blob/master/0067.ipynb) | Add Binary | 簡單 | 進位 | 重要 |
+| [0069.](https://github.com/wuling31715/leetcode/blob/master/0069.ipynb) | Sqrt(x) | 簡單 | 基本 |  |
+| [0070.](https://github.com/wuling31715/leetcode/blob/master/0070.ipynb) | Climbing Stairs | 簡單 | 數學 |  |
+| [0083.](https://github.com/wuling31715/leetcode/blob/master/0083.ipynb) | Remove Duplicates from Sorted List | 簡單 | 鏈結串列 | 重要 |
+| [0088.](https://github.com/wuling31715/leetcode/blob/master/0088.ipynb) | Merge Sorted Array | 簡單 | 陣列 | 重要 |
 | 118. | Pascal's Triangle | 簡單 | 數學 | 重要 |
 | 119. | Pascal's Triangle II | 簡單 | 數學 | 重要 |
 | 121. | Best Time to Buy and Sell Stock | 簡單 | 動態規劃 | 重要 |
@@ -90,7 +90,7 @@
 | 771. | Jewels and Stones | 簡單 | 基本 |  |
 | 788. | Rotated Digits | 簡單 | 集合 | 重要 |
 | 796. | Rotate String | 簡單 | 基本 |  |
-| [811.](https://github.com/wuling31715/leetcode/blob/master/0811.%20Subdomain%20Visit%20Count.ipynb) | Subdomain Visit Count | 簡單 | 字典 | 重要 |
+| [0811.](https://github.com/wuling31715/leetcode/blob/master/0811.%20Subdomain%20Visit%20Count.ipynb) | Subdomain Visit Count | 簡單 | 字典 | 重要 |
 | 860. | Lemonade Change | 簡單 | 基本 |  |
 | 867. | Transpose Matrix | 簡單 | 矩陣 | 重要 |
 | 914. | X of a Kind in a Deck of Cards | 簡單 | 基本 | 重要 |
