@@ -1,17 +1,17 @@
 # LeetCode
 ----------
-| 題號 | 題目 | 難度 | 題型 | 備註 |
+| 編號 | 題目 | 難度 | 題型 | 備註 |
 | ---- | ---- | ---- | ---- | ---- |
 | [0001.](https://github.com/wuling31715/leetcode/blob/master/0001.ipynb) | Two Sum | 簡單 | 基本 |  |
-| 2. | Add Two Numbers | 中等 | 鏈結串列 | 重要 |
-| 3. | Longest Substring Without Repeating Characters | 中等 | 字串處理 | 重要 |
-| 4. | Median of Two Sorted Arrays | 困難 | 數學 |  |
-| 7. | Reverse Integer | 簡單 | 字串處理 |  |
-| 8. | String to Integer (atoi) | 中等 | 字串處理 | 麻煩 |
-| 9. | Palindrome Number | 簡單 | 字串處理 |  |
-| 13. | Roman to Integer | 簡單 | 字典 | 重要 |
-| 14. | Longest Common Prefix | 簡單 | 字串處理 |  |
-| 20. | Valid Parentheses | 簡單 | 堆疊 | 重要 |
+| [0002.](https://github.com/wuling31715/leetcode/blob/master/0002.ipynb) | Add Two Numbers | 中等 | 鏈結串列 | 重要 |
+| [0003.](https://github.com/wuling31715/leetcode/blob/master/0003.ipynb) | Longest Substring Without Repeating Characters | 中等 | 字串處理 | 重要 |
+| [0004.](https://github.com/wuling31715/leetcode/blob/master/0004.ipynb) | Median of Two Sorted Arrays | 困難 | 數學 |  |
+| [0007.](https://github.com/wuling31715/leetcode/blob/master/0007.ipynb) | Reverse Integer | 簡單 | 字串處理 |  |
+| [0008.](https://github.com/wuling31715/leetcode/blob/master/0008.ipynb) | String to Integer (atoi) | 中等 | 字串處理 | 麻煩 |
+| [0009.](https://github.com/wuling31715/leetcode/blob/master/0009.ipynb) | Palindrome Number | 簡單 | 字串處理 |  |
+| [0013.](https://github.com/wuling31715/leetcode/blob/master/0013.ipynb) | Roman to Integer | 簡單 | 字典 | 重要 |
+| [0014.](https://github.com/wuling31715/leetcode/blob/master/0014.ipynb) | Longest Common Prefix | 簡單 | 字串處理 |  |
+| [0020.](https://github.com/wuling31715/leetcode/blob/master/0020.ipynb) | Valid Parentheses | 簡單 | 堆疊 | 重要 |
 | 21. | Merge Two Sorted Lists | 簡單 | 鏈結串列 | 重要 |
 | 26. | Remove Duplicates from Sorted Array | 簡單 | 基本 |  |
 | 27. | Remove Element | 簡單 | 基本 |  |
