@@ -2,7 +2,7 @@
 ----------
 | 題號 | 題目 | 難度 | 題型 | 備註 |
 | ---- | ---- | ---- | ---- | ---- |
-| 1. | Two Sum | 簡單 | 基本 |  |
+| [0001.](https://github.com/wuling31715/leetcode/blob/master/0001.ipynb) | Two Sum | 簡單 | 基本 |  |
 | 2. | Add Two Numbers | 中等 | 鏈結串列 | 重要 |
 | 3. | Longest Substring Without Repeating Characters | 中等 | 字串處理 | 重要 |
 | 4. | Median of Two Sorted Arrays | 困難 | 數學 |  |
