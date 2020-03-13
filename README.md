@@ -120,3 +120,4 @@
 | [1360.](https://github.com/wuling31715/leetcode/blob/master/1360.ipynb) | Number of Days Between Two Dates | 簡單 | 時間 | 基本 |
 | 1365. | How Many Numbers Are Smaller Than the Current Number | 簡單 | 基本 |  |
 | [1370.](https://github.com/wuling31715/leetcode/blob/master/1370.ipynb) | Increasing Decreasing String | 簡單 | 集合 | 重要 |
+| [1374.](https://github.com/wuling31715/leetcode/blob/master/1374.ipynb) | Generate a String With Characters That Have Odd Counts | 簡單 | 基本 | 思考 |
