@@ -114,7 +114,7 @@
 | [1332.](https://github.com/wuling31715/leetcode/blob/master/1332.ipynb) | Remove Palindromic Subsequences | 簡單 | 回文 |  |
 | 1337. | The K Weakest Rows in a Matrix | 簡單 | 排序 | 重要 |
 | 1342. | Number of Steps to Reduce a Number to Zero | 簡單 | 基本 |  |
-| [1346.](https://github.com/wuling31715/leetcode/blob/master/1346.ipynb) | Check If N and Its Double Exist | 簡單 |  | 基本 |
+| [1346.](https://github.com/wuling31715/leetcode/blob/master/1346.ipynb) | Check If N and Its Double Exist | 簡單 | 基本 |  |
 | 1351. | Count Negative Numbers in a Sorted Matrix | 簡單 | 基本 |  |
 | [1356.](https://github.com/wuling31715/leetcode/blob/master/1356.ipynb) | Sort Integers by The Number of 1 Bits | 簡單 | 進位 | 重要 |
 | [1360.](https://github.com/wuling31715/leetcode/blob/master/1360.ipynb) | Number of Days Between Two Dates | 簡單 | 日期 |  |
