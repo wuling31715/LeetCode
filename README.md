@@ -102,6 +102,8 @@
 | [1207.](https://github.com/wuling31715/leetcode/blob/master/1207.ipynb) | Unique Number of Occurrences | 簡單 | 基本 |  |
 | [1221.](https://github.com/wuling31715/leetcode/blob/master/1221.ipynb) | Split a String in Balanced Strings | 簡單 | 堆疊 | 重要 |
 | [1232.](https://github.com/wuling31715/leetcode/blob/master/1232.ipynb) | Check If It Is a Straight Line | 簡單 | 基本 |  |
+| [1237.](https://github.com/wuling31715/leetcode/blob/master/1237.ipynb) | Find Positive Integer Solution for a Given Equation | 簡單 | 函數 | 重要 |
+| [1252.](https://github.com/wuling31715/leetcode/blob/master/1252.ipynb) | Find Cells with Odd Values in a Matrix | 簡單 | 矩陣 | 重要 |
 | [1281.](https://github.com/wuling31715/leetcode/blob/master/1281.ipynb) |  Subtract the Product and Sum of Digits of an Integer | 簡單 | 基本 |  |
 | [1287.](https://github.com/wuling31715/leetcode/blob/master/1287.ipynb) | Element Appearing More Than 25% In Sorted Array | 簡單 | 基本 |  |
 | [1290.](https://github.com/wuling31715/leetcode/blob/master/1290.ipynb) | Convert Binary Number in a Linked List to Integer | 簡單 | 鏈結串列 | 重要 |
