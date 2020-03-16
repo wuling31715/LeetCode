@@ -115,7 +115,7 @@
 | [1337.](https://github.com/wuling31715/leetcode/blob/master/1337.ipynb) | The K Weakest Rows in a Matrix | 簡單 | 排序 | 重要 |
 | [1342.](https://github.com/wuling31715/leetcode/blob/master/1342.ipynb) | Number of Steps to Reduce a Number to Zero | 簡單 | 基本 |  |
 | [1346.](https://github.com/wuling31715/leetcode/blob/master/1346.ipynb) | Check If N and Its Double Exist | 簡單 | 基本 |  |
-| 1351. | Count Negative Numbers in a Sorted Matrix | 簡單 | 基本 |  |
+| [1351.](https://github.com/wuling31715/leetcode/blob/master/1351.ipynb) | Count Negative Numbers in a Sorted Matrix | 簡單 | 基本 |  |
 | [1356.](https://github.com/wuling31715/leetcode/blob/master/1356.ipynb) | Sort Integers by The Number of 1 Bits | 簡單 | 進位 | 重要 |
 | [1360.](https://github.com/wuling31715/leetcode/blob/master/1360.ipynb) | Number of Days Between Two Dates | 簡單 | 日期 |  |
 | [1365.](https://github.com/wuling31715/leetcode/blob/master/1365.ipynb) | How Many Numbers Are Smaller Than the Current Number | 簡單 | 基本 |  |
