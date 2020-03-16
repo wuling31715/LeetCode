@@ -49,6 +49,7 @@
 | [0225.](https://github.com/wuling31715/leetcode/blob/master/0225.ipynb) | Implement Stack using Queues | 簡單 | 堆疊 | 重要 |
 | [0229.](https://github.com/wuling31715/leetcode/blob/master/0229.ipynb) | Majority Element II | 中等 | 基本 |  |
 | [0231.](https://github.com/wuling31715/leetcode/blob/master/0231.ipynb) | Power of Two | 簡單 | 基本 |  |
+| [0232.](https://github.com/wuling31715/leetcode/blob/master/0232.ipynb) |   Implement Queue using Stacks | 簡單 | 佇列 |  |
 | [0242.](https://github.com/wuling31715/leetcode/blob/master/0242.ipynb) | Valid Anagram | 簡單 | 基本 |  |
 | [0258.](https://github.com/wuling31715/leetcode/blob/master/0258.ipynb) | Add Digits | 簡單 | 基本 |  |
 | [0263.](https://github.com/wuling31715/leetcode/blob/master/0263.ipynb) | Ugly Number | 簡單 | 因數分解 | 重要 |
