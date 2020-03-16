@@ -121,3 +121,4 @@
 | [1365.](https://github.com/wuling31715/leetcode/blob/master/1365.ipynb) | How Many Numbers Are Smaller Than the Current Number | 簡單 | 基本 |  |
 | [1370.](https://github.com/wuling31715/leetcode/blob/master/1370.ipynb) | Increasing Decreasing String | 簡單 | 集合 | 重要 |
 | [1374.](https://github.com/wuling31715/leetcode/blob/master/1374.ipynb) | Generate a String With Characters That Have Odd Counts | 簡單 | 基本 | 思考 |
+| [1380.](https://github.com/wuling31715/leetcode/blob/master/1380.ipynb) | Lucky Numbers in a Matrix | 簡單 | 矩陣 |  |
