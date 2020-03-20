@@ -74,6 +74,7 @@
 | [0405.](https://github.com/wuling31715/leetcode/blob/master/0405.ipynb) | Convert a Number to Hexadecimal | 簡單 | 進位 | 重要 |
 | [0409.](https://github.com/wuling31715/leetcode/blob/master/0409.ipynb) | Longest Palindrome | 簡單 | 回文 | 重要 |
 | [0412.](https://github.com/wuling31715/leetcode/blob/master/0412.ipynb) | Fizz Buzz | 簡單 | 基本 |  |
+| [0414.](https://github.com/wuling31715/leetcode/blob/master/0414.ipynb) | Third Maximum Number | 簡單 | 基本 |  |
 | [0415.](https://github.com/wuling31715/leetcode/blob/master/0415.ipynb) | Add Strings | 簡單 | 基本 |  |
 | [0520.](https://github.com/wuling31715/leetcode/blob/master/0520.ipynb) | Detect Capital | 簡單 | 基本 |  |
 | [0561.](https://github.com/wuling31715/leetcode/blob/master/0561.ipynb) | Array Partition I | 簡單 | 基本 |  |
