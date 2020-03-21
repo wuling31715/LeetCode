@@ -69,6 +69,7 @@
 | [0371.](https://github.com/wuling31715/leetcode/blob/master/0371.ipynb) | Sum of Two Integers | 簡單 | 基本 |  |
 | [0374.](https://github.com/wuling31715/leetcode/blob/master/0374.ipynb) | Guess Number Higher or Lower | 簡單 | 二元搜尋 | 重要 |
 | [0383.](https://github.com/wuling31715/leetcode/blob/master/0383.ipynb) | Ransom Note | 簡單 | 基本 |  |
+| [0387.](https://github.com/wuling31715/leetcode/blob/master/0387.ipynb) | First Unique Character in a String | 簡單 | 集合 |  |
 | [0389.](https://github.com/wuling31715/leetcode/blob/master/0389.ipynb) | Find the Difference | 簡單 | 基本 |  |
 | [0392.](https://github.com/wuling31715/leetcode/blob/master/0392.ipynb) | Is Subsequence | 簡單 | 字串處理 | 麻煩 |
 | [0405.](https://github.com/wuling31715/leetcode/blob/master/0405.ipynb) | Convert a Number to Hexadecimal | 簡單 | 進位 | 重要 |
