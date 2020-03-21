@@ -76,6 +76,7 @@
 | [0412.](https://github.com/wuling31715/leetcode/blob/master/0412.ipynb) | Fizz Buzz | 簡單 | 基本 |  |
 | [0414.](https://github.com/wuling31715/leetcode/blob/master/0414.ipynb) | Third Maximum Number | 簡單 | 基本 |  |
 | [0415.](https://github.com/wuling31715/leetcode/blob/master/0415.ipynb) | Add Strings | 簡單 | 基本 |  |
+| [0434.](https://github.com/wuling31715/leetcode/blob/master/0434.ipynb) | Number of Segments in a String | 簡單 | 基本 |  |
 | [0520.](https://github.com/wuling31715/leetcode/blob/master/0520.ipynb) | Detect Capital | 簡單 | 基本 |  |
 | [0561.](https://github.com/wuling31715/leetcode/blob/master/0561.ipynb) | Array Partition I | 簡單 | 基本 |  |
 | [0566.](https://github.com/wuling31715/leetcode/blob/master/0566.ipynb) | Reshape the Matrix | 簡單 | 矩陣 | 重要 |
