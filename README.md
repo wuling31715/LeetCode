@@ -4,13 +4,13 @@
 | ---- | ---- | ---- | ---- | ---- |
 | [0001.](https://github.com/wuling31715/leetcode/blob/master/0001.ipynb) | Two Sum | 簡單 | 基本 |  |
 | [0002.](https://github.com/wuling31715/leetcode/blob/master/0002.ipynb) | Add Two Numbers | 中等 | 鏈結串列 | 重要 |
-| [0003.](https://github.com/wuling31715/leetcode/blob/master/0003.ipynb) | Longest Substring Without Repeating Characters | 中等 | 字串處理 | 重要 |
+| [0003.](https://github.com/wuling31715/leetcode/blob/master/0003.ipynb) | Longest Substring Without Repeating Characters | 中等 | 字串 | 重要 |
 | [0004.](https://github.com/wuling31715/leetcode/blob/master/0004.ipynb) | Median of Two Sorted Arrays | 困難 | 數學 |  |
-| [0007.](https://github.com/wuling31715/leetcode/blob/master/0007.ipynb) | Reverse Integer | 簡單 | 字串處理 |  |
-| [0008.](https://github.com/wuling31715/leetcode/blob/master/0008.ipynb) | String to Integer (atoi) | 中等 | 字串處理 | 麻煩 |
-| [0009.](https://github.com/wuling31715/leetcode/blob/master/0009.ipynb) | Palindrome Number | 簡單 | 字串處理 |  |
+| [0007.](https://github.com/wuling31715/leetcode/blob/master/0007.ipynb) | Reverse Integer | 簡單 | 字串 |  |
+| [0008.](https://github.com/wuling31715/leetcode/blob/master/0008.ipynb) | String to Integer (atoi) | 中等 | 字串 | 麻煩 |
+| [0009.](https://github.com/wuling31715/leetcode/blob/master/0009.ipynb) | Palindrome Number | 簡單 | 字串 |  |
 | [0013.](https://github.com/wuling31715/leetcode/blob/master/0013.ipynb) | Roman to Integer | 簡單 | 字典 | 重要 |
-| [0014.](https://github.com/wuling31715/leetcode/blob/master/0014.ipynb) | Longest Common Prefix | 簡單 | 字串處理 |  |
+| [0014.](https://github.com/wuling31715/leetcode/blob/master/0014.ipynb) | Longest Common Prefix | 簡單 | 字串 |  |
 | [0020.](https://github.com/wuling31715/leetcode/blob/master/0020.ipynb) | Valid Parentheses | 簡單 | 堆疊 | 重要 |
 | [0021.](https://github.com/wuling31715/leetcode/blob/master/0021.ipynb) | Merge Two Sorted Lists | 簡單 | 鏈結串列 | 重要 |
 | [0026.](https://github.com/wuling31715/leetcode/blob/master/0026.ipynb) | Remove Duplicates from Sorted Array | 簡單 | 基本 |  |
@@ -71,7 +71,7 @@
 | [0383.](https://github.com/wuling31715/leetcode/blob/master/0383.ipynb) | Ransom Note | 簡單 | 基本 |  |
 | [0387.](https://github.com/wuling31715/leetcode/blob/master/0387.ipynb) | First Unique Character in a String | 簡單 | 集合 |  |
 | [0389.](https://github.com/wuling31715/leetcode/blob/master/0389.ipynb) | Find the Difference | 簡單 | 基本 |  |
-| [0392.](https://github.com/wuling31715/leetcode/blob/master/0392.ipynb) | Is Subsequence | 簡單 | 字串處理 | 麻煩 |
+| [0392.](https://github.com/wuling31715/leetcode/blob/master/0392.ipynb) | Is Subsequence | 簡單 | 字串 | 麻煩 |
 | [0405.](https://github.com/wuling31715/leetcode/blob/master/0405.ipynb) | Convert a Number to Hexadecimal | 簡單 | 進位 | 重要 |
 | [0409.](https://github.com/wuling31715/leetcode/blob/master/0409.ipynb) | Longest Palindrome | 簡單 | 回文 | 重要 |
 | [0412.](https://github.com/wuling31715/leetcode/blob/master/0412.ipynb) | Fizz Buzz | 簡單 | 基本 |  |
@@ -79,6 +79,7 @@
 | [0415.](https://github.com/wuling31715/leetcode/blob/master/0415.ipynb) | Add Strings | 簡單 | 基本 |  |
 | [0434.](https://github.com/wuling31715/leetcode/blob/master/0434.ipynb) | Number of Segments in a String | 簡單 | 基本 |  |
 | [0448.](https://github.com/wuling31715/leetcode/blob/master/0448.ipynb) | Find All Numbers Disappeared in an Array | 簡單 | 集合 |  |
+| [0459.](https://github.com/wuling31715/leetcode/blob/master/0459.ipynb) | Repeated Substring Pattern | 簡單 | 字串 | 重要 |
 | [0520.](https://github.com/wuling31715/leetcode/blob/master/0520.ipynb) | Detect Capital | 簡單 | 基本 |  |
 | [0561.](https://github.com/wuling31715/leetcode/blob/master/0561.ipynb) | Array Partition I | 簡單 | 基本 |  |
 | [0566.](https://github.com/wuling31715/leetcode/blob/master/0566.ipynb) | Reshape the Matrix | 簡單 | 矩陣 | 重要 |
@@ -90,7 +91,7 @@
 | [0680.](https://github.com/wuling31715/leetcode/blob/master/0680.ipynb) | Valid Palindrome II | 簡單 | 回文 | 麻煩 |
 | [0693.](https://github.com/wuling31715/leetcode/blob/master/0693.ipynb) | Binary Number with Alternating Bits | 簡單 | 基本 |  |
 | [0709.](https://github.com/wuling31715/leetcode/blob/master/0709.ipynb) | To Lower Case | 簡單 | 基本 |  |
-| [0717.](https://github.com/wuling31715/leetcode/blob/master/0717.ipynb) | 1-bit and 2-bit Characters | 簡單 | 字串處理 | 重要 |
+| [0717.](https://github.com/wuling31715/leetcode/blob/master/0717.ipynb) | 1-bit and 2-bit Characters | 簡單 | 字串 | 重要 |
 | [0724.](https://github.com/wuling31715/leetcode/blob/master/0724.ipynb) | Find Pivot Index | 簡單 | 基本 | 重要 |
 | [0762.](https://github.com/wuling31715/leetcode/blob/master/0762.ipynb) | Prime Number of Set Bits in Binary Representation | 簡單 | 基本 | 重要 |
 | [0766.](https://github.com/wuling31715/leetcode/blob/master/0766.ipynb) | Toeplitz Matrix | 簡單 | 矩陣 | 重要 |
@@ -102,7 +103,7 @@
 | [0867.](https://github.com/wuling31715/leetcode/blob/master/0867.ipynb) | Transpose Matrix | 簡單 | 矩陣 | 重要 |
 | [0914.](https://github.com/wuling31715/leetcode/blob/master/0914.ipynb) | X of a Kind in a Deck of Cards | 簡單 | 基本 | 重要 |
 | [0977.](https://github.com/wuling31715/leetcode/blob/master/0977.ipynb) | Squares of a Sorted Array | 簡單 | 基本 | |
-| [1002.](https://github.com/wuling31715/leetcode/blob/master/1002.ipynb) | Find Common Characters | 簡單 | 字串處理 |  |
+| [1002.](https://github.com/wuling31715/leetcode/blob/master/1002.ipynb) | Find Common Characters | 簡單 | 字串 |  |
 | [1005.](https://github.com/wuling31715/leetcode/blob/master/1005.ipynb) | Maximize Sum Of Array After K Negations | 簡單 | 基本 | 重要 |
 | [1013.](https://github.com/wuling31715/leetcode/blob/master/1013.ipynb) | Partition Array Into Three Parts With Equal Sum | 簡單 | 基本 |  |
 | [1185.](https://github.com/wuling31715/leetcode/blob/master/1185.ipynb) | Day of the Week | 簡單 | 日期 |  |
