@@ -101,6 +101,7 @@
 | [0811.](https://github.com/wuling31715/leetcode/blob/master/0811.ipynb) | Subdomain Visit Count | 簡單 | 字典 | 重要 |
 | [0860.](https://github.com/wuling31715/leetcode/blob/master/0860.ipynb) | Lemonade Change | 簡單 | 基本 |  |
 | [0867.](https://github.com/wuling31715/leetcode/blob/master/0867.ipynb) | Transpose Matrix | 簡單 | 矩陣 | 重要 |
+| [0893.](https://github.com/wuling31715/leetcode/blob/master/0893.ipynb) | Groups of Special-Equivalent Strings | 簡單 | 字串 |  |
 | [0914.](https://github.com/wuling31715/leetcode/blob/master/0914.ipynb) | X of a Kind in a Deck of Cards | 簡單 | 基本 | 重要 |
 | [0977.](https://github.com/wuling31715/leetcode/blob/master/0977.ipynb) | Squares of a Sorted Array | 簡單 | 基本 | |
 | [1002.](https://github.com/wuling31715/leetcode/blob/master/1002.ipynb) | Find Common Characters | 簡單 | 字串 |  |
