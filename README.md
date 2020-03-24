@@ -9,6 +9,7 @@
 | [0007.](https://github.com/wuling31715/leetcode/blob/master/0007.ipynb) | Reverse Integer | 簡單 | 字串 |  |
 | [0008.](https://github.com/wuling31715/leetcode/blob/master/0008.ipynb) | String to Integer (atoi) | 中等 | 字串 | 麻煩 |
 | [0009.](https://github.com/wuling31715/leetcode/blob/master/0009.ipynb) | Palindrome Number | 簡單 | 字串 |  |
+| [0012.](https://github.com/wuling31715/leetcode/blob/master/0012.ipynb) |  Integer to Roman | 中等 | 字典 | 重要 |
 | [0013.](https://github.com/wuling31715/leetcode/blob/master/0013.ipynb) | Roman to Integer | 簡單 | 字典 | 重要 |
 | [0014.](https://github.com/wuling31715/leetcode/blob/master/0014.ipynb) | Longest Common Prefix | 簡單 | 字串 |  |
 | [0020.](https://github.com/wuling31715/leetcode/blob/master/0020.ipynb) | Valid Parentheses | 簡單 | 堆疊 | 重要 |
