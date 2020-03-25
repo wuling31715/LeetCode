@@ -87,6 +87,7 @@
 | [0520.](https://github.com/wuling31715/leetcode/blob/master/0520.ipynb) | Detect Capital | 簡單 | 基本 |  |
 | [0561.](https://github.com/wuling31715/leetcode/blob/master/0561.ipynb) | Array Partition I | 簡單 | 基本 |  |
 | [0566.](https://github.com/wuling31715/leetcode/blob/master/0566.ipynb) | Reshape the Matrix | 簡單 | 矩陣 | 重要 |
+| [0581.](https://github.com/wuling31715/leetcode/blob/master/0581.ipynb) | Shortest Unsorted Continuous Subarray | 簡單 |  |  |
 | [0598.](https://github.com/wuling31715/leetcode/blob/master/0598.ipynb) | Range Addition II  | 簡單 | 矩陣 | 重要 |
 | [0599.](https://github.com/wuling31715/leetcode/blob/master/0599.ipynb) | Minimum Index Sum of Two Lists  | 簡單 | 基本 |  |
 | [0628.](https://github.com/wuling31715/leetcode/blob/master/0628.ipynb) | Maximum Product of Three Numbers | 簡單 | 基本 | 麻煩 |
