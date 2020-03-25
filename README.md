@@ -42,6 +42,7 @@
 | [0189.](https://github.com/wuling31715/leetcode/blob/master/0189.ipynb) | Rotate Array | 簡單 | 基本 |  |
 | [0190.](https://github.com/wuling31715/leetcode/blob/master/0190.ipynb) | Reverse Bits | 簡單 | 位元 | 重要 |
 | [0191.](https://github.com/wuling31715/leetcode/blob/master/0191.ipynb) | Number of 1 Bits | 簡單 | 位元 | 重要 |
+| [0193.](https://github.com/wuling31715/leetcode/blob/master/0193.ipynb) | Valid Phone Numbers | 簡單 | 正規表示式 |  |
 | [0202.](https://github.com/wuling31715/leetcode/blob/master/0202.ipynb) | Happy Number | 簡單 | 基本 |  |
 | [0204.](https://github.com/wuling31715/leetcode/blob/master/0204.ipynb) | Count Primes | 簡單 | 質數 | 重要 |
 | [0205.](https://github.com/wuling31715/leetcode/blob/master/0205.ipynb) | Isomorphic Strings | 簡單 | 字典 | 重要 |
