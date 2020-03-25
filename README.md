@@ -113,6 +113,7 @@
 | [1002.](https://github.com/wuling31715/leetcode/blob/master/1002.ipynb) | Find Common Characters | 簡單 | 字串 |  |
 | [1005.](https://github.com/wuling31715/leetcode/blob/master/1005.ipynb) | Maximize Sum Of Array After K Negations | 簡單 | 基本 | 重要 |
 | [1013.](https://github.com/wuling31715/leetcode/blob/master/1013.ipynb) | Partition Array Into Three Parts With Equal Sum | 簡單 | 基本 |  |
+| [1108.](https://github.com/wuling31715/leetcode/blob/master/1108.ipynb) | Defanging an IP Address | 簡單 |  |  |
 | [1185.](https://github.com/wuling31715/leetcode/blob/master/1185.ipynb) | Day of the Week | 簡單 | 日期 |  |
 | [1200.](https://github.com/wuling31715/leetcode/blob/master/1200.ipynb) | Minimum Absolute Difference | 簡單 | 基本 | 重要 |
 | [1207.](https://github.com/wuling31715/leetcode/blob/master/1207.ipynb) | Unique Number of Occurrences | 簡單 | 基本 |  |
