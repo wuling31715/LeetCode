@@ -9,8 +9,8 @@
 | [0007.](https://github.com/wuling31715/leetcode/blob/master/0007.ipynb) | Reverse Integer | 簡單 | 字串 |  |
 | [0008.](https://github.com/wuling31715/leetcode/blob/master/0008.ipynb) | String to Integer (atoi) | 中等 | 字串 | 麻煩 |
 | [0009.](https://github.com/wuling31715/leetcode/blob/master/0009.ipynb) | Palindrome Number | 簡單 | 字串 |  |
-| [0012.](https://github.com/wuling31715/leetcode/blob/master/0012.ipynb) |  Integer to Roman | 中等 | 字典 | 重要 |
-| [0013.](https://github.com/wuling31715/leetcode/blob/master/0013.ipynb) | Roman to Integer | 簡單 | 字典 | 重要 |
+| [0012.](https://github.com/wuling31715/leetcode/blob/master/0012.ipynb) |  Integer to Roman | 中等 |  | 重要 |
+| [0013.](https://github.com/wuling31715/leetcode/blob/master/0013.ipynb) | Roman to Integer | 簡單 |  | 重要 |
 | [0014.](https://github.com/wuling31715/leetcode/blob/master/0014.ipynb) | Longest Common Prefix | 簡單 | 字串 |  |
 | [0020.](https://github.com/wuling31715/leetcode/blob/master/0020.ipynb) | Valid Parentheses | 簡單 | 堆疊 | 重要 |
 | [0021.](https://github.com/wuling31715/leetcode/blob/master/0021.ipynb) | Merge Two Sorted Lists | 簡單 | 鏈結串列 | 重要 |
@@ -36,7 +36,7 @@
 | [0155.](https://github.com/wuling31715/leetcode/blob/master/0155.ipynb) | Min Stack | 簡單 | 堆疊 | 重要 |
 | [0167.](https://github.com/wuling31715/leetcode/blob/master/0167.ipynb) | Two Sum II - Input array is sorted | 簡單 |  | 重要 |
 | [0168.](https://github.com/wuling31715/leetcode/blob/master/0168.ipynb) | Excel Sheet Column Title | 簡單 | 數學 |  |
-| [0169.](https://github.com/wuling31715/leetcode/blob/master/0169.ipynb) | Majority Element | 簡單 | 字典 |  |
+| [0169.](https://github.com/wuling31715/leetcode/blob/master/0169.ipynb) | Majority Element | 簡單 |  |  |
 | [0171.](https://github.com/wuling31715/leetcode/blob/master/0171.ipynb) | Excel Sheet Column Number | 簡單 | 進位 | 重要 |
 | [0172.](https://github.com/wuling31715/leetcode/blob/master/0172.ipynb) | Factorial Trailing Zeroes | 簡單 | 數學 | 重要 |
 | [0189.](https://github.com/wuling31715/leetcode/blob/master/0189.ipynb) | Rotate Array | 簡單 |  |  |
@@ -45,7 +45,7 @@
 | [0193.](https://github.com/wuling31715/leetcode/blob/master/0193.ipynb) | Valid Phone Numbers | 簡單 | 正規表示式 |  |
 | [0202.](https://github.com/wuling31715/leetcode/blob/master/0202.ipynb) | Happy Number | 簡單 |  |  |
 | [0204.](https://github.com/wuling31715/leetcode/blob/master/0204.ipynb) | Count Primes | 簡單 | 質數 | 重要 |
-| [0205.](https://github.com/wuling31715/leetcode/blob/master/0205.ipynb) | Isomorphic Strings | 簡單 | 字典 | 重要 |
+| [0205.](https://github.com/wuling31715/leetcode/blob/master/0205.ipynb) | Isomorphic Strings | 簡單 |  | 重要 |
 | [0217.](https://github.com/wuling31715/leetcode/blob/master/0217.ipynb) | Contains Duplicate | 簡單 |  |  |
 | [0219.](https://github.com/wuling31715/leetcode/blob/master/0219.ipynb) | Contains Duplicate II | 簡單 |  | 麻煩 |
 | [0225.](https://github.com/wuling31715/leetcode/blob/master/0225.ipynb) | Implement Stack using Queues | 簡單 | 堆疊 | 重要 |
@@ -58,13 +58,13 @@
 | [0268.](https://github.com/wuling31715/leetcode/blob/master/0268.ipynb) | Missing Number | 簡單 |  |  |
 | [0283.](https://github.com/wuling31715/leetcode/blob/master/0283.ipynb) | Move Zeroes | 簡單 |  |  |
 | [0287.](https://github.com/wuling31715/leetcode/blob/master/0287.ipynb) | Find the Duplicate Number | 中等 |  |  |
-| [0290.](https://github.com/wuling31715/leetcode/blob/master/0290.ipynb) | Word Pattern | 簡單 | 字典 | 重要 |
+| [0290.](https://github.com/wuling31715/leetcode/blob/master/0290.ipynb) | Word Pattern | 簡單 |  | 重要 |
 | [0292.](https://github.com/wuling31715/leetcode/blob/master/0292.ipynb) | Nim Game | 簡單 | 數學 |  |
 | [0303.](https://github.com/wuling31715/leetcode/blob/master/0303.ipynb) | Range Sum Query - Immutable | 簡單 |  |  |
 | [0326.](https://github.com/wuling31715/leetcode/blob/master/0326.ipynb) | Power of Three | 簡單 |  |  |
 | [0342.](https://github.com/wuling31715/leetcode/blob/master/0342.ipynb) | Power of Four | 簡單 |  |  |
 | [0344.](https://github.com/wuling31715/leetcode/blob/master/0344.ipynb) | Reverse String | 簡單 |  |  |
-| [0345.](https://github.com/wuling31715/leetcode/blob/master/0345.ipynb) | Reverse Vowels of a String | 簡單 | 字典 | 麻煩 |
+| [0345.](https://github.com/wuling31715/leetcode/blob/master/0345.ipynb) | Reverse Vowels of a String | 簡單 |  | 麻煩 |
 | [0349.](https://github.com/wuling31715/leetcode/blob/master/0349.ipynb) | Intersection of Two Arrays | 簡單 | 陣列 | 重要 |
 | [0350.](https://github.com/wuling31715/leetcode/blob/master/0350.ipynb) | Intersection of Two Arrays II | 簡單 | 陣列 | 重要 |
 | [0367.](https://github.com/wuling31715/leetcode/blob/master/0367.ipynb) | Valid Perfect Square | 簡單 |  |  |
@@ -104,7 +104,7 @@
 | [0771.](https://github.com/wuling31715/leetcode/blob/master/0771.ipynb) | Jewels and Stones | 簡單 |  |  |
 | [0788.](https://github.com/wuling31715/leetcode/blob/master/0788.ipynb) | Rotated Digits | 簡單 | 集合 | 重要 |
 | [0796.](https://github.com/wuling31715/leetcode/blob/master/0796.ipynb) | Rotate String | 簡單 |  |  |
-| [0811.](https://github.com/wuling31715/leetcode/blob/master/0811.ipynb) | Subdomain Visit Count | 簡單 | 字典 | 重要 |
+| [0811.](https://github.com/wuling31715/leetcode/blob/master/0811.ipynb) | Subdomain Visit Count | 簡單 |  | 重要 |
 | [0860.](https://github.com/wuling31715/leetcode/blob/master/0860.ipynb) | Lemonade Change | 簡單 |  |  |
 | [0867.](https://github.com/wuling31715/leetcode/blob/master/0867.ipynb) | Transpose Matrix | 簡單 | 矩陣 | 重要 |
 | [0893.](https://github.com/wuling31715/leetcode/blob/master/0893.ipynb) | Groups of Special-Equivalent Strings | 簡單 | 字串 |  |
