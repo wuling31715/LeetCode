@@ -109,6 +109,7 @@
 | [0867.](https://github.com/wuling31715/leetcode/blob/master/0867.ipynb) | Transpose Matrix | 簡單 | 矩陣 | 重要 |
 | [0893.](https://github.com/wuling31715/leetcode/blob/master/0893.ipynb) | Groups of Special-Equivalent Strings | 簡單 | 字串 |  |
 | [0914.](https://github.com/wuling31715/leetcode/blob/master/0914.ipynb) | X of a Kind in a Deck of Cards | 簡單 | 基本 | 重要 |
+| [0942.](https://github.com/wuling31715/leetcode/blob/master/0942.ipynb) | DI String Match | 簡單 | 基本 |  |
 | [0977.](https://github.com/wuling31715/leetcode/blob/master/0977.ipynb) | Squares of a Sorted Array | 簡單 | 基本 | |
 | [1002.](https://github.com/wuling31715/leetcode/blob/master/1002.ipynb) | Find Common Characters | 簡單 | 字串 |  |
 | [1005.](https://github.com/wuling31715/leetcode/blob/master/1005.ipynb) | Maximize Sum Of Array After K Negations | 簡單 | 基本 | 重要 |
