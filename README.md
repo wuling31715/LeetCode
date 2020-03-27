@@ -108,6 +108,7 @@
 | [0860.](https://github.com/wuling31715/leetcode/blob/master/0860.ipynb) | Lemonade Change | 簡單 |  |  |
 | [0867.](https://github.com/wuling31715/leetcode/blob/master/0867.ipynb) | Transpose Matrix | 簡單 | 矩陣 | 重要 |
 | [0893.](https://github.com/wuling31715/leetcode/blob/master/0893.ipynb) | Groups of Special-Equivalent Strings | 簡單 | 字串 |  |
+| [0905.](https://github.com/wuling31715/leetcode/blob/master/0905.ipynb) | Sort Array By Parity | 簡單 |  |  |
 | [0908.](https://github.com/wuling31715/leetcode/blob/master/0908.ipynb) | Smallest Range I | 簡單 |  |  |
 | [0910.](https://github.com/wuling31715/leetcode/blob/master/0910.ipynb) | Smallest Range II | 中等 | 動態規劃 | 重要 |
 | [0914.](https://github.com/wuling31715/leetcode/blob/master/0914.ipynb) | X of a Kind in a Deck of Cards | 簡單 |  | 重要 |
