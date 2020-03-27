@@ -84,6 +84,7 @@
 | [0453.](https://github.com/wuling31715/leetcode/blob/master/0453.ipynb) | Minimum Moves to Equal Array Elements | 簡單 | 數學 | 重要 |
 | [0455.](https://github.com/wuling31715/leetcode/blob/master/0455.ipynb) | Assign Cookies | 簡單 |  |  |
 | [0459.](https://github.com/wuling31715/leetcode/blob/master/0459.ipynb) | Repeated Substring Pattern | 簡單 | 字串 | 重要 |
+| [0461.](https://github.com/wuling31715/leetcode/blob/master/0461.ipynb) | Hamming Distance | 簡單 | 進位 | |
 | [0462.](https://github.com/wuling31715/leetcode/blob/master/0462.ipynb) | Minimum Moves to Equal Array Elements II | 中等 | 數學 | 重要 |
 | [0520.](https://github.com/wuling31715/leetcode/blob/master/0520.ipynb) | Detect Capital | 簡單 |  |  |
 | [0561.](https://github.com/wuling31715/leetcode/blob/master/0561.ipynb) | Array Partition I | 簡單 |  |  |
