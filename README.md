@@ -34,6 +34,7 @@
 | [0125.](https://github.com/wuling31715/leetcode/blob/master/0125.ipynb) | Valid Palindrome | 簡單 | 回文 |  |
 | [0136.](https://github.com/wuling31715/leetcode/blob/master/0136.ipynb) | Single Number | 簡單 |  |  |
 | [0155.](https://github.com/wuling31715/leetcode/blob/master/0155.ipynb) | Min Stack | 簡單 | 堆疊 | 重要 |
+| [0162.](https://github.com/wuling31715/leetcode/blob/master/0162.ipynb) | Find Peak Element | 中等 |  |  |
 | [0167.](https://github.com/wuling31715/leetcode/blob/master/0167.ipynb) | Two Sum II - Input array is sorted | 簡單 |  | 重要 |
 | [0168.](https://github.com/wuling31715/leetcode/blob/master/0168.ipynb) | Excel Sheet Column Title | 簡單 | 數學 |  |
 | [0169.](https://github.com/wuling31715/leetcode/blob/master/0169.ipynb) | Majority Element | 簡單 |  |  |
@@ -100,12 +101,14 @@
 | [0709.](https://github.com/wuling31715/leetcode/blob/master/0709.ipynb) | To Lower Case | 簡單 |  |  |
 | [0717.](https://github.com/wuling31715/leetcode/blob/master/0717.ipynb) | 1-bit and 2-bit Characters | 簡單 | 字串 | 重要 |
 | [0724.](https://github.com/wuling31715/leetcode/blob/master/0724.ipynb) | Find Pivot Index | 簡單 |  | 重要 |
+| [0744.](https://github.com/wuling31715/leetcode/blob/master/0744.ipynb) | Find Smallest Letter Greater Than Target | 簡單 |  |  |
 | [0762.](https://github.com/wuling31715/leetcode/blob/master/0762.ipynb) | Prime Number of Set Bits in Binary Representation | 簡單 |  | 重要 |
 | [0766.](https://github.com/wuling31715/leetcode/blob/master/0766.ipynb) | Toeplitz Matrix | 簡單 | 矩陣 | 重要 |
 | [0771.](https://github.com/wuling31715/leetcode/blob/master/0771.ipynb) | Jewels and Stones | 簡單 |  |  |
 | [0788.](https://github.com/wuling31715/leetcode/blob/master/0788.ipynb) | Rotated Digits | 簡單 | 集合 | 重要 |
 | [0796.](https://github.com/wuling31715/leetcode/blob/master/0796.ipynb) | Rotate String | 簡單 |  |  |
 | [0811.](https://github.com/wuling31715/leetcode/blob/master/0811.ipynb) | Subdomain Visit Count | 簡單 |  | 重要 |
+| [0852.](https://github.com/wuling31715/leetcode/blob/master/0852.ipynb) | Peak Index in a Mountain Array | 簡單 |  |  |
 | [0860.](https://github.com/wuling31715/leetcode/blob/master/0860.ipynb) | Lemonade Change | 簡單 |  |  |
 | [0867.](https://github.com/wuling31715/leetcode/blob/master/0867.ipynb) | Transpose Matrix | 簡單 | 矩陣 | 重要 |
 | [0893.](https://github.com/wuling31715/leetcode/blob/master/0893.ipynb) | Groups of Special-Equivalent Strings | 簡單 | 字串 |  |
