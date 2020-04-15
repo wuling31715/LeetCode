@@ -116,6 +116,7 @@
 | [0908.](https://github.com/wuling31715/leetcode/blob/master/0908.ipynb) | Smallest Range I | 簡單 |  |  |
 | [0910.](https://github.com/wuling31715/leetcode/blob/master/0910.ipynb) | Smallest Range II | 中等 | 動態規劃 | 重要 |
 | [0914.](https://github.com/wuling31715/leetcode/blob/master/0914.ipynb) | X of a Kind in a Deck of Cards | 簡單 |  | 重要 |
+| [0922.](https://github.com/wuling31715/leetcode/blob/master/0922.ipynb) | Sort Array By Parity II | 簡單 |  |  |
 | [0942.](https://github.com/wuling31715/leetcode/blob/master/0942.ipynb) | DI String Match | 簡單 |  |  |
 | [0977.](https://github.com/wuling31715/leetcode/blob/master/0977.ipynb) | Squares of a Sorted Array | 簡單 |  | |
 | [1002.](https://github.com/wuling31715/leetcode/blob/master/1002.ipynb) | Find Common Characters | 簡單 | 字串 |  |
