@@ -107,6 +107,7 @@
 | [0771.](https://github.com/wuling31715/leetcode/blob/master/0771.ipynb) | Jewels and Stones | 簡單 |  |  |
 | [0788.](https://github.com/wuling31715/leetcode/blob/master/0788.ipynb) | Rotated Digits | 簡單 | 集合 | 重要 |
 | [0796.](https://github.com/wuling31715/leetcode/blob/master/0796.ipynb) | Rotate String | 簡單 |  |  |
+| [0804.](https://github.com/wuling31715/leetcode/blob/master/0804.ipynb) | Unique Morse Code Words | 簡單 |  |  |
 | [0811.](https://github.com/wuling31715/leetcode/blob/master/0811.ipynb) | Subdomain Visit Count | 簡單 |  | 重要 |
 | [0852.](https://github.com/wuling31715/leetcode/blob/master/0852.ipynb) | Peak Index in a Mountain Array | 簡單 |  |  |
 | [0860.](https://github.com/wuling31715/leetcode/blob/master/0860.ipynb) | Lemonade Change | 簡單 |  |  |
