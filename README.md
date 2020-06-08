@@ -104,6 +104,7 @@
 | [0645](https://github.com/wuling31715/leetcode/blob/master/0645.ipynb) | Set Mismatch | 簡單 | 陣列 | 麻煩 |
 | [0680](https://github.com/wuling31715/leetcode/blob/master/0680.ipynb) | Valid Palindrome II | 簡單 | 回文 | 麻煩 |
 | [0693](https://github.com/wuling31715/leetcode/blob/master/0693.ipynb) | Binary Number with Alternating Bits | 簡單 |  |  |
+| [0700](https://github.com/wuling31715/leetcode/blob/master/0700.ipynb) | Search in a Binary Search Tree | 簡單 | 二元樹 | 重要 |
 | [0709](https://github.com/wuling31715/leetcode/blob/master/0709.ipynb) | To Lower Case | 簡單 |  |  |
 | [0717](https://github.com/wuling31715/leetcode/blob/master/0717.ipynb) | 1-bit and 2-bit Characters | 簡單 | 字串 | 重要 |
 | [0724](https://github.com/wuling31715/leetcode/blob/master/0724.ipynb) | Find Pivot Index | 簡單 |  | 重要 |
