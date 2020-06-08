@@ -97,6 +97,7 @@
 | [0596](https://github.com/wuling31715/leetcode/blob/master/0596.ipynb) | Classes More Than 5 Students | 簡單 | SQL |  |
 | [0598](https://github.com/wuling31715/leetcode/blob/master/0598.ipynb) | Range Addition II  | 簡單 | 矩陣 | 重要 |
 | [0599](https://github.com/wuling31715/leetcode/blob/master/0599.ipynb) | Minimum Index Sum of Two Lists  | 簡單 |  |  |
+| [0627](https://github.com/wuling31715/leetcode/blob/master/0627.ipynb) | Swap Salary | 簡單 | SQL |  |
 | [0628](https://github.com/wuling31715/leetcode/blob/master/0628.ipynb) | Maximum Product of Three Numbers | 簡單 |  | 麻煩 |
 | [0633](https://github.com/wuling31715/leetcode/blob/master/0633.ipynb) | Sum of Square Numbers | 簡單 |  | 重要 |
 | [0645](https://github.com/wuling31715/leetcode/blob/master/0645.ipynb) | Set Mismatch | 簡單 | 陣列 | 麻煩 |
