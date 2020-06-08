@@ -159,5 +159,6 @@
 | [1380](https://github.com/wuling31715/leetcode/blob/master/1380.ipynb) | Lucky Numbers in a Matrix | 簡單 | 矩陣 |  |
 | [1385](https://github.com/wuling31715/leetcode/blob/master/1385.ipynb) | Find the Distance Value Between Two Arrays | 簡單 | 矩陣 |  |
 | [1389](https://github.com/wuling31715/leetcode/blob/master/1389.ipynb) | Create Target Array in the Given Order | 簡單 |  |  |
+| [1431](https://github.com/wuling31715/leetcode/blob/master/1431.ipynb) | Kids With the Greatest Number of Candies | 簡單 |  |  |
 | [1460](https://github.com/wuling31715/leetcode/blob/master/1460.ipynb) | Make Two Arrays Equal by Reversing Sub-arrays | 簡單 |  |  |
 | [1470](https://github.com/wuling31715/leetcode/blob/master/1470.ipynb) | Shuffle the Array | 簡單 |  |  |
