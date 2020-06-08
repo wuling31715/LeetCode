@@ -87,6 +87,7 @@
 | [0459](https://github.com/wuling31715/leetcode/blob/master/0459.ipynb) | Repeated Substring Pattern | 簡單 | 字串 | 重要 |
 | [0461](https://github.com/wuling31715/leetcode/blob/master/0461.ipynb) | Hamming Distance | 簡單 | 進位 | |
 | [0462](https://github.com/wuling31715/leetcode/blob/master/0462.ipynb) | Minimum Moves to Equal Array Elements II | 中等 | 數學 | 重要 |
+| [0507](https://github.com/wuling31715/leetcode/blob/master/0507.ipynb) | Perfect Number | 簡單 |  |  |
 | [0520](https://github.com/wuling31715/leetcode/blob/master/0520.ipynb) | Detect Capital | 簡單 |  |  |
 | [0541](https://github.com/wuling31715/leetcode/blob/master/0541.ipynb) | Reverse String II | 簡單 |  |  |
 | [0557](https://github.com/wuling31715/leetcode/blob/master/0557.ipynb) | Reverse Words in a String III | 簡單 |  |  |
