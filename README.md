@@ -94,6 +94,7 @@
 | [0566](https://github.com/wuling31715/leetcode/blob/master/0566.ipynb) | Reshape the Matrix | 簡單 | 矩陣 | 重要 |
 | [0581](https://github.com/wuling31715/leetcode/blob/master/0581.ipynb) | Shortest Unsorted Continuous Subarray | 簡單 |  |  |
 | [0595](https://github.com/wuling31715/leetcode/blob/master/0595.ipynb) | Big Countries | 簡單 | SQL |  |
+| [0596](https://github.com/wuling31715/leetcode/blob/master/0596.ipynb) | Classes More Than 5 Students | 簡單 | SQL |  |
 | [0598](https://github.com/wuling31715/leetcode/blob/master/0598.ipynb) | Range Addition II  | 簡單 | 矩陣 | 重要 |
 | [0599](https://github.com/wuling31715/leetcode/blob/master/0599.ipynb) | Minimum Index Sum of Two Lists  | 簡單 |  |  |
 | [0628](https://github.com/wuling31715/leetcode/blob/master/0628.ipynb) | Maximum Product of Three Numbers | 簡單 |  | 麻煩 |
