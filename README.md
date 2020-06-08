@@ -114,6 +114,7 @@
 | [0796](https://github.com/wuling31715/leetcode/blob/master/0796.ipynb) | Rotate String | 簡單 |  |  |
 | [0804](https://github.com/wuling31715/leetcode/blob/master/0804.ipynb) | Unique Morse Code Words | 簡單 |  |  |
 | [0811](https://github.com/wuling31715/leetcode/blob/master/0811.ipynb) | Subdomain Visit Count | 簡單 |  | 重要 |
+| [0832](https://github.com/wuling31715/leetcode/blob/master/0832.ipynb) | Flipping an Image | 簡單 |  |  |
 | [0852](https://github.com/wuling31715/leetcode/blob/master/0852.ipynb) | Peak Index in a Mountain Array | 簡單 |  |  |
 | [0860](https://github.com/wuling31715/leetcode/blob/master/0860.ipynb) | Lemonade Change | 簡單 |  |  |
 | [0867](https://github.com/wuling31715/leetcode/blob/master/0867.ipynb) | Transpose Matrix | 簡單 | 矩陣 | 重要 |
