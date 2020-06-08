@@ -130,6 +130,7 @@
 | [0922](https://github.com/wuling31715/leetcode/blob/master/0922.ipynb) | Sort Array By Parity II | 簡單 |  |  |
 | [0938](https://github.com/wuling31715/leetcode/blob/master/0938.ipynb) | Range Sum of BST | 簡單 | 二元樹 | 重要 |
 | [0942](https://github.com/wuling31715/leetcode/blob/master/0942.ipynb) | DI String Match | 簡單 |  |  |
+| [0961](https://github.com/wuling31715/leetcode/blob/master/0961.ipynb) | N-Repeated Element in Size 2N Array | 簡單 |  |  |
 | [0977](https://github.com/wuling31715/leetcode/blob/master/0977.ipynb) | Squares of a Sorted Array | 簡單 |  | |
 | [1002](https://github.com/wuling31715/leetcode/blob/master/1002.ipynb) | Find Common Characters | 簡單 | 字串 |  |
 | [1005](https://github.com/wuling31715/leetcode/blob/master/1005.ipynb) | Maximize Sum Of Array After K Negations | 簡單 |  | 重要 |
