@@ -106,6 +106,7 @@
 | [0709](https://github.com/wuling31715/leetcode/blob/master/0709.ipynb) | To Lower Case | 簡單 |  |  |
 | [0717](https://github.com/wuling31715/leetcode/blob/master/0717.ipynb) | 1-bit and 2-bit Characters | 簡單 | 字串 | 重要 |
 | [0724](https://github.com/wuling31715/leetcode/blob/master/0724.ipynb) | Find Pivot Index | 簡單 |  | 重要 |
+| [0728](https://github.com/wuling31715/leetcode/blob/master/0728.ipynb) | Self Dividing Numbers | 簡單 |  | |
 | [0744](https://github.com/wuling31715/leetcode/blob/master/0744.ipynb) | Find Smallest Letter Greater Than Target | 簡單 |  |  |
 | [0747](https://github.com/wuling31715/leetcode/blob/master/0747.ipynb) | Largest Number At Least Twice of Others | 簡單 |  |  |
 | [0762](https://github.com/wuling31715/leetcode/blob/master/0762.ipynb) | Prime Number of Set Bits in Binary Representation | 簡單 |  | 重要 |
