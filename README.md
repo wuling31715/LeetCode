@@ -176,6 +176,7 @@
 | [1380](https://github.com/wuling31715/leetcode/blob/master/1380.ipynb) | Lucky Numbers in a Matrix | 簡單 | 矩陣 |  |
 | [1385](https://github.com/wuling31715/leetcode/blob/master/1385.ipynb) | Find the Distance Value Between Two Arrays | 簡單 | 矩陣 |  |
 | [1389](https://github.com/wuling31715/leetcode/blob/master/1389.ipynb) | Create Target Array in the Given Order | 簡單 |  |  |
+| [1394](https://github.com/wuling31715/leetcode/blob/master/1394.ipynb) | Find Lucky Integer in an Array | 簡單 |  |  |
 | [1431](https://github.com/wuling31715/leetcode/blob/master/1431.ipynb) | Kids With the Greatest Number of Candies | 簡單 |  |  |
 | [1436](https://github.com/wuling31715/leetcode/blob/master/1436.ipynb) | Destination City | 簡單 | 集合 |  |
 | [1450](https://github.com/wuling31715/leetcode/blob/master/1450.ipynb) | Number of Students Doing Homework at a Given Time | 簡單 |  |  |
