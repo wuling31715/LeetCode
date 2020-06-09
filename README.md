@@ -94,6 +94,8 @@
 | [0561](https://github.com/wuling31715/leetcode/blob/master/0561.ipynb) | Array Partition I | 簡單 |  |  |
 | [0566](https://github.com/wuling31715/leetcode/blob/master/0566.ipynb) | Reshape the Matrix | 簡單 | 矩陣 | 重要 |
 | [0581](https://github.com/wuling31715/leetcode/blob/master/0581.ipynb) | Shortest Unsorted Continuous Subarray | 簡單 |  |  |
+| [0589](https://github.com/wuling31715/leetcode/blob/master/0589.ipynb) | N-ary Tree Preorder Traversal | 簡單 | 二元樹 | 重要 |
+| [0590](https://github.com/wuling31715/leetcode/blob/master/0590.ipynb) | N-ary Tree Postorder Traversal | 簡單 | 二元樹 | 重要 |
 | [0595](https://github.com/wuling31715/leetcode/blob/master/0595.ipynb) | Big Countries | 簡單 | SQL |  |
 | [0596](https://github.com/wuling31715/leetcode/blob/master/0596.ipynb) | Classes More Than 5 Students | 簡單 | SQL |  |
 | [0598](https://github.com/wuling31715/leetcode/blob/master/0598.ipynb) | Range Addition II  | 簡單 | 矩陣 | 重要 |
