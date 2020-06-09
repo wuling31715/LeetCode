@@ -17,6 +17,7 @@
 | [0026](https://github.com/wuling31715/leetcode/blob/master/0026.ipynb) | Remove Duplicates from Sorted Array | 簡單 |  |  |
 | [0027](https://github.com/wuling31715/leetcode/blob/master/0027.ipynb) | Remove Element | 簡單 |  |  |
 | [0028](https://github.com/wuling31715/leetcode/blob/master/0028.ipynb) | Implement strStr() | 簡單 |  |  |
+| [0029](https://github.com/wuling31715/leetcode/blob/master/0029.ipynb) | Divide Two Integers | 中等 |  |  |
 | [0035](https://github.com/wuling31715/leetcode/blob/master/0035.ipynb) | Search Insert Position | 簡單 |  |  |
 | [0038](https://github.com/wuling31715/leetcode/blob/master/0038.ipynb) | Count and Say | 簡單 |  | 麻煩 |
 | [0053](https://github.com/wuling31715/leetcode/blob/master/0053.ipynb) | Maximum Subarray | 簡單 | 動態規劃 | 重要 |
