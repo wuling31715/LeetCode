@@ -120,6 +120,7 @@
 | [0796](https://github.com/wuling31715/leetcode/blob/master/0796.ipynb) | Rotate String | 簡單 |  |  |
 | [0804](https://github.com/wuling31715/leetcode/blob/master/0804.ipynb) | Unique Morse Code Words | 簡單 |  |  |
 | [0811](https://github.com/wuling31715/leetcode/blob/master/0811.ipynb) | Subdomain Visit Count | 簡單 |  | 重要 |
+| [0812](https://github.com/wuling31715/leetcode/blob/master/0812.ipynb) | Largest Triangle Area | 簡單 | 數學 |  |
 | [0832](https://github.com/wuling31715/leetcode/blob/master/0832.ipynb) | Flipping an Image | 簡單 |  |  |
 | [0852](https://github.com/wuling31715/leetcode/blob/master/0852.ipynb) | Peak Index in a Mountain Array | 簡單 |  |  |
 | [0860](https://github.com/wuling31715/leetcode/blob/master/0860.ipynb) | Lemonade Change | 簡單 |  |  |
@@ -134,6 +135,7 @@
 | [0938](https://github.com/wuling31715/leetcode/blob/master/0938.ipynb) | Range Sum of BST | 簡單 | 二元樹 | 重要 |
 | [0942](https://github.com/wuling31715/leetcode/blob/master/0942.ipynb) | DI String Match | 簡單 |  |  |
 | [0961](https://github.com/wuling31715/leetcode/blob/master/0961.ipynb) | N-Repeated Element in Size 2N Array | 簡單 |  |  |
+| [0976](https://github.com/wuling31715/leetcode/blob/master/0976.ipynb) | Largest Perimeter Triangle | 簡單 | 數學 |  |
 | [0977](https://github.com/wuling31715/leetcode/blob/master/0977.ipynb) | Squares of a Sorted Array | 簡單 |  | |
 | [1002](https://github.com/wuling31715/leetcode/blob/master/1002.ipynb) | Find Common Characters | 簡單 | 字串 |  |
 | [1005](https://github.com/wuling31715/leetcode/blob/master/1005.ipynb) | Maximize Sum Of Array After K Negations | 簡單 |  | 重要 |
