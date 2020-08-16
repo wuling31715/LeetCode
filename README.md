@@ -188,4 +188,5 @@
 | [1470](https://github.com/wuling31715/leetcode/blob/master/1470.ipynb) | Shuffle the Array | 簡單 |  |  |
 | [1480](https://github.com/wuling31715/leetcode/blob/master/1480.ipynb) | Running Sum of 1d Array | 簡單 |  |  |
 | [1486](https://github.com/wuling31715/leetcode/blob/master/1486.ipynb) | XOR Operation in an Array | 簡單 |  |  |
+| [1512](https://github.com/wuling31715/leetcode/blob/master/1512.ipynb) | Number of Good Pairs | 簡單 |  |  |
 | [1528](https://github.com/wuling31715/leetcode/blob/master/1528.ipynb) | Shuffle String | 簡單 |  |  |
