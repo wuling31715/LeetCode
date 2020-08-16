@@ -151,6 +151,7 @@
 | [1232](https://github.com/wuling31715/leetcode/blob/master/1232.ipynb) | Check If It Is a Straight Line | 簡單 |  |  |
 | [1237](https://github.com/wuling31715/leetcode/blob/master/1237.ipynb) | Find Positive Integer Solution for a Given Equation | 簡單 | 函數 | 重要 |
 | [1252](https://github.com/wuling31715/leetcode/blob/master/1252.ipynb) | Find Cells with Odd Values in a Matrix | 簡單 | 矩陣 | 重要 |
+| [1260](https://github.com/wuling31715/leetcode/blob/master/1260.ipynb) | Shift 2D Grid | 簡單 | 矩陣 | 重要 |
 | [1266](https://github.com/wuling31715/leetcode/blob/master/1266.ipynb) | Minimum Time Visiting All Points | 簡單 | 路徑 |  |
 | [1275](https://github.com/wuling31715/leetcode/blob/master/1275.ipynb) | Find Winner on a Tic Tac Toe Game | 簡單 | 矩陣 | 重要 |
 | [1281](https://github.com/wuling31715/leetcode/blob/master/1281.ipynb) |  Subtract the Product and Sum of Digits of an Integer | 簡單 |  |  |
@@ -186,3 +187,5 @@
 | [1464](https://github.com/wuling31715/leetcode/blob/master/1464.ipynb) | Maximum Product of Two Elements in an Array | 簡單 |  |  |
 | [1470](https://github.com/wuling31715/leetcode/blob/master/1470.ipynb) | Shuffle the Array | 簡單 |  |  |
 | [1480](https://github.com/wuling31715/leetcode/blob/master/1480.ipynb) | Running Sum of 1d Array | 簡單 |  |  |
+| [1486](https://github.com/wuling31715/leetcode/blob/master/1486.ipynb) | XOR Operation in an Array | 簡單 |  |  |
+| [1528](https://github.com/wuling31715/leetcode/blob/master/1528.ipynb) | Shuffle String | 簡單 |  |  |
