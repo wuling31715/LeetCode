@@ -166,6 +166,7 @@
 | [1331](https://github.com/wuling31715/leetcode/blob/master/1331.ipynb) | Rank Transform of an Array | 簡單 | 排序 | 重要 |
 | [1332](https://github.com/wuling31715/leetcode/blob/master/1332.ipynb) | Remove Palindromic Subsequences | 簡單 | 回文 |  |
 | [1337](https://github.com/wuling31715/leetcode/blob/master/1337.ipynb) | The K Weakest Rows in a Matrix | 簡單 | 排序 | 重要 |
+| [1338](https://github.com/wuling31715/leetcode/blob/master/1338.ipynb) | Reduce Array Size to The Half | 中等 | 排序 | 重要 |
 | [1342](https://github.com/wuling31715/leetcode/blob/master/1342.ipynb) | Number of Steps to Reduce a Number to Zero | 簡單 |  |  |
 | [1346](https://github.com/wuling31715/leetcode/blob/master/1346.ipynb) | Check If N and Its Double Exist | 簡單 |  |  |
 | [1351](https://github.com/wuling31715/leetcode/blob/master/1351.ipynb) | Count Negative Numbers in a Sorted Matrix | 簡單 |  |  |
