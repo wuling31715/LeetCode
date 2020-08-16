@@ -184,3 +184,4 @@
 | [1460](https://github.com/wuling31715/leetcode/blob/master/1460.ipynb) | Make Two Arrays Equal by Reversing Sub-arrays | 簡單 |  |  |
 | [1464](https://github.com/wuling31715/leetcode/blob/master/1464.ipynb) | Maximum Product of Two Elements in an Array | 簡單 |  |  |
 | [1470](https://github.com/wuling31715/leetcode/blob/master/1470.ipynb) | Shuffle the Array | 簡單 |  |  |
+| [1480](https://github.com/wuling31715/leetcode/blob/master/1480.ipynb) | Running Sum of 1d Array | 簡單 |  |  |
