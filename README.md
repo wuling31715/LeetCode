@@ -10,6 +10,7 @@
 | [0007](https://github.com/wuling31715/leetcode/blob/master/0007.ipynb) | Reverse Integer | 簡單 | 字串 |  |
 | [0008](https://github.com/wuling31715/leetcode/blob/master/0008.ipynb) | String to Integer (atoi) | 中等 | 字串 | 麻煩 |
 | [0009](https://github.com/wuling31715/leetcode/blob/master/0009.ipynb) | Palindrome Number | 簡單 | 字串 |  |
+| [0011](https://github.com/wuling31715/leetcode/blob/master/0011.ipynb) | Container With Most Water | 中等 | 動態規劃 | 重要 |
 | [0012](https://github.com/wuling31715/leetcode/blob/master/0012.ipynb) |  Integer to Roman | 中等 |  | 重要 |
 | [0013](https://github.com/wuling31715/leetcode/blob/master/0013.ipynb) | Roman to Integer | 簡單 |  | 重要 |
 | [0014](https://github.com/wuling31715/leetcode/blob/master/0014.ipynb) | Longest Common Prefix | 簡單 | 字串 |  |
@@ -191,3 +192,4 @@
 | [1486](https://github.com/wuling31715/leetcode/blob/master/1486.ipynb) | XOR Operation in an Array | 簡單 |  |  |
 | [1512](https://github.com/wuling31715/leetcode/blob/master/1512.ipynb) | Number of Good Pairs | 簡單 |  |  |
 | [1528](https://github.com/wuling31715/leetcode/blob/master/1528.ipynb) | Shuffle String | 簡單 |  |  |
+| [1572](https://github.com/wuling31715/leetcode/blob/master/1572.ipynb) | Matrix Diagonal Sum | 簡單 | 矩陣 |  |
