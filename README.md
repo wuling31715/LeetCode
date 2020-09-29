@@ -7,6 +7,7 @@
 | [0003](https://github.com/wuling31715/leetcode/blob/master/0003.ipynb) | Longest Substring Without Repeating Characters | 中等 | 字串 | 重要 |
 | [0004](https://github.com/wuling31715/leetcode/blob/master/0004.ipynb) | Median of Two Sorted Arrays | 困難 | 數學 |  |
 | [0005](https://github.com/wuling31715/leetcode/blob/master/0005.ipynb) | Longest Palindromic Substring | 中等 | 回文 |  |
+| [0006](https://github.com/wuling31715/leetcode/blob/master/0006.ipynb) | ZigZag Conversion | 中等 | 矩陣 | 重要 |
 | [0007](https://github.com/wuling31715/leetcode/blob/master/0007.ipynb) | Reverse Integer | 簡單 | 字串 |  |
 | [0008](https://github.com/wuling31715/leetcode/blob/master/0008.ipynb) | String to Integer (atoi) | 中等 | 字串 | 麻煩 |
 | [0009](https://github.com/wuling31715/leetcode/blob/master/0009.ipynb) | Palindrome Number | 簡單 | 字串 |  |
