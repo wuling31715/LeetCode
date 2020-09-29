@@ -193,3 +193,4 @@
 | [1512](https://github.com/wuling31715/leetcode/blob/master/1512.ipynb) | Number of Good Pairs | 簡單 |  |  |
 | [1528](https://github.com/wuling31715/leetcode/blob/master/1528.ipynb) | Shuffle String | 簡單 |  |  |
 | [1572](https://github.com/wuling31715/leetcode/blob/master/1572.ipynb) | Matrix Diagonal Sum | 簡單 | 矩陣 |  |
+| [1588](https://github.com/wuling31715/leetcode/blob/master/1588.ipynb) | Sum of All Odd Length Subarrays | 簡單 |  |  |
