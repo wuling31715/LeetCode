@@ -23,6 +23,7 @@
 | [0029](https://github.com/wuling31715/leetcode/blob/master/0029.ipynb) | Divide Two Integers | 中等 |  |  |
 | [0035](https://github.com/wuling31715/leetcode/blob/master/0035.ipynb) | Search Insert Position | 簡單 |  |  |
 | [0038](https://github.com/wuling31715/leetcode/blob/master/0038.ipynb) | Count and Say | 簡單 |  | 麻煩 |
+| [0050](https://github.com/wuling31715/leetcode/blob/master/0050.ipynb) | Pow(x, n) | 簡單 | 快速幕 | 重要 |
 | [0053](https://github.com/wuling31715/leetcode/blob/master/0053.ipynb) | Maximum Subarray | 簡單 | 動態規劃 | 重要 |
 | [0058](https://github.com/wuling31715/leetcode/blob/master/0058.ipynb) | Length of Last Word | 簡單 |  |  |
 | [0066](https://github.com/wuling31715/leetcode/blob/master/0066.ipynb) | Plus One | 簡單 |  |  |
